@@ -13,4 +13,4 @@ It is meant to ease the understanding of Redux from scratch using the incrementi
 
 ## To understand the architecture
 * Follow carefully the comments provided in the application
-* Compare the application with the image provided [link](https://res.cloudinary.com/ebysoft/image/upload/v1551331836/REDUX_ARCHITECHURE.jpg "here")
+* Compare the application with the image provided [here](https://res.cloudinary.com/ebysoft/image/upload/v1551331836/REDUX_ARCHITECHURE.jpg "here")

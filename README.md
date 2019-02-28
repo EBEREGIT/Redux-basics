@@ -8,7 +8,7 @@ It is meant to ease the understanding of Redux from scratch using the incrementi
 
 ## To run the app
 * Clone the project to your machine
-* navigate in to **redux-test** in your terminal
+* navigate in to **redux-test.js** in your terminal
 * run `node redux-test.js` 
 
 ## To understand the architecture

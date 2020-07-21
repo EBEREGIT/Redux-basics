@@ -1,5 +1,5 @@
 # Understanding the basics of Redux
-This is a small project built with `npm install redux`. It is meant to ease the understanding of Redux from scratch. The complete article can be found [here]()
+This is a small project built with `npm install redux`. It is meant to ease the understanding of Redux from scratch. The complete article can be found [here](https://dev.to/ebereplenty/redux-in-broken-pieces-no-react-4ck7)
 
 ## Dependencies
 * [REDUX](https://redux.js.org/)
